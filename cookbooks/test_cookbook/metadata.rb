@@ -1,6 +1,6 @@
 name 'test_cookbook'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Brian Frost'
+maintainer_email 'brianfrost@consolidated.net'
 license ''
 description 'Installs/Configures test_cookbook'
 long_description 'Installs/Configures test_cookbook'
